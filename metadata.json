@@ -1,0 +1,7 @@
+{
+  "name": "Magic Storybook Hero",
+  "description": "AI가 아이의 얼굴을 분석하여 동화책 속 주인공으로 만들어주는 마법 같은 동화책 제작 서비스입니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
